@@ -4,25 +4,6 @@ The project was made for statistics course at university. Its goal was to simula
 mobile robot's model. In this case robot was driving only in straight line. System input was its acceleration
 and observed state was velocity.
 
-## State space matrices
-
-Robot was represented by following matrices:
-
-<p align="center">
-
-![equation](http://www.sciweavers.org/upload/Tex2Img_1591873499/render.png)
-
-
-![equation](http://www.sciweavers.org/upload/Tex2Img_1591873525/render.png)
-
-
-![equation](http://www.sciweavers.org/upload/Tex2Img_1591873545/render.png)
-
-</p>
-
-
-Where d is damping.
-
 ## Usage
 
 To start simulation run `kalman.py`
